@@ -1,5 +1,10 @@
 https://github.com/jachinte/tensorflow/blob/master/demo.c
 https://github.com/tensorflow/tensorflow/issues/8033
+https://github.com/wazeerzulfikar/rtensorflow/tree/master/src
+https://github.com/johnands/TensorFlowTesting
+https://github.com/lixin832500/build-tensorflow
+https://github.com/tensorflow/tensorflow/issues/6080
+https://github.com/beniz/deepdetect/pull/303/commits/be216ab79117b1a243f6312f9a92b4de8959eda9
 
 Usage: Here's an example on how to load and run a graph:
 
